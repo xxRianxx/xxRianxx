@@ -1,6 +1,6 @@
 ## Eaeeeee 👋
 
-🔭 Atualmente estou trabalhando como Suporte Técnico de TI na PCX Tecnologia, focado na manutenção de hardware e software de desktops e notebooks, além de oferecer suporte técnico para professores, palestrantes e alunos na Fundação Dom Cabral.
+🔭 "Atualmente, estou trabalhando como Suporte Técnico de TI na PCX Tecnologia, focado na manutenção de hardware e software de desktops e notebooks. Também ajudo a solucionar problemas referentes à parte de redes e servidores."
 
 🌱 aprendendo linguagens de programação e explorando o desenvolvimento de software, com o objetivo de migrar para a carreira de desenvolvedor. Estou ansioso por novas oportunidades nesse meio.
 
