@@ -16,7 +16,7 @@
        
   <a href=https://www.linkedin.com/in/rian-silva-a37153198/>
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
   </a>
 
 
